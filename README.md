@@ -74,7 +74,7 @@ cd lisk-garden-dapp
 
 2. **Install dependencies**
 ```bash
-npm install
+yarn install
 ```
 
 3. **Set up environment variables**
@@ -86,7 +86,7 @@ NEXT_PUBLIC_THIRDWEB_CLIENT_ID=your_thirdweb_client_id
 
 4. **Run development server**
 ```bash
-npm run dev
+yarn dev
 ```
 
 5. **Open in browser**
