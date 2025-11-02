@@ -1,7 +1,7 @@
 // Quick script to check contract balance
 // Run with: node scripts/check-balance.js
 
-const CONTRACT_ADDRESS = "0xf44adEdec3f5E7a9794bC8E830BE67e4855FA8fF";
+const CONTRACT_ADDRESS = "0x8eedf001dFC7C3D13c8e5E0606A6769202D8E6E8";
 const RPC_URL = "https://rpc.sepolia-api.lisk.com";
 
 async function checkBalance() {
